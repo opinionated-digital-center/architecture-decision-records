@@ -2,7 +2,7 @@
 
 The Opinionated Digital Center's team has decided to use the Architecture Decision
 Record approach to record the reasoning behind its opinionated choices
-(see [ADR-0001](docs/adr/0000-record-architecture-decisions.md)).
+(see [ADR-0000](docs/adr/0000-record-architecture-decisions.md)).
 
 ## What is an Architecture Decision Record (ADR)?
 To learn about ADR, see:
