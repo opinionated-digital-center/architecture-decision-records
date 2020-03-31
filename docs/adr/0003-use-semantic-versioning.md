@@ -1,7 +1,7 @@
 # Use semantic versioning
 
-* Status: proposed
-* Date: 2020-03-26
+* Status: approved
+* Date: 2020-03-31
 
 ## Context and Problem Statement
 
