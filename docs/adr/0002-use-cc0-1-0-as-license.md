@@ -3,8 +3,8 @@
 Adapted from
 [MADR's similar decision record](https://github.com/adr/madr/blob/2.1.2/docs/adr/0001-use-CC0-as-license.md).
 
-* Status: Proposed
-* Date: 2020-03-25
+* Status: Approved
+* Date: 2020-03-31
 
 ## Context and Problem Statement
 
