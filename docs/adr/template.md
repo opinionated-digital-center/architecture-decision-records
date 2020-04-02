@@ -1,8 +1,9 @@
+<!-- items marked as optional *are* optional => consider whether they are useful before filling them -->
 # [short title of solved problem and solution]
 
-* Status: [proposed | rejected | accepted | deprecated | … | superseded by [ADR-0005](0005-example.md)] <!-- optional -->
+* Status: [proposed | rejected | accepted | deprecated | … | superseded by [ADR-0005](0005-example.md)]
 * Deciders: [list everyone involved in the decision] <!-- optional -->
-* Date: [YYYY-MM-DD when the decision was last updated] <!-- optional -->
+* Date: [YYYY-MM-DD when the decision was last updated]
 
 Technical Story: [description | ticket/issue URL] <!-- optional -->
 
