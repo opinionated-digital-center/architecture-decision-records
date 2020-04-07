@@ -1,6 +1,6 @@
 # Use Conventional Changelog format for Conventional Commits
 
-* Status: proposed
+* Status: accepted
 * Date: 2020-04-02
 
 ## Context and Problem Statement
