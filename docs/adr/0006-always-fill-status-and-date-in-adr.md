@@ -1,6 +1,6 @@
 # Always fill status and date in ADR
 
-* Status: proposed
+* Status: accepted
 * Date: 2020-04-02
 
 ## Context and Problem Statement
