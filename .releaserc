@@ -23,7 +23,8 @@
       "@semantic-release/exec",
       {
         "verifyConditionsCmd": "./scripts/verify_git_tags_one_version_tag_present.sh",
-        "verifyReleaseCmd": "./scripts/verify_git_tags_new_version_tag_non_existant.sh ${nextRelease.version}"
+        "verifyReleaseCmd": "./scripts/verify_git_tags_new_version_tag_non_existant.sh ${nextRelease.version}",
+        "prepareCmd": "make release NEW_VERSION=${nextRelease.version}"
       }
     ],
     [
@@ -31,7 +32,8 @@
       {
         "assets": [
           "CHANGELOG.md",
-          "VERSION"
+          "VERSION",
+          "docs/**"
         ],
         "message": "chore(release): ${nextRelease.version}\n\n${nextRelease.notes}"
       }
