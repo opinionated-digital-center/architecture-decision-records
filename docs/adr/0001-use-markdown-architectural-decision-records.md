@@ -3,7 +3,7 @@
 Adapted from
 [MADR's similar decision record](https://github.com/adr/madr/blob/2.1.2/docs/adr/0000-use-markdown-architectural-decision-records.md).
 
-* Status: Proposed
+* Status: accepted
 * Date: 2020-03-25
 
 ## Context and Problem Statement
