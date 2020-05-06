@@ -5,9 +5,6 @@ on:
     branches:
       - master
 
-env:
-  POETRY_VIRTUALENVS_CREATE: false
-
 jobs:
   semantic_release:
     runs-on: ubuntu-latest
@@ -17,6 +14,12 @@ jobs:
         uses: actions/setup-node@v1
         with:
           node-version: 12.x
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - name: Complete CI/CD setup
+        run: make setup-cicd-release-stage
       - name: Semantic Release
         uses: cycjimmy/semantic-release-action@v2
         with:
