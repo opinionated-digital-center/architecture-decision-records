@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.3.1](https://github.com/opinionated-digital-center/architecture-decision-record/compare/v0.3.0...v0.3.1) (2020-05-06)
+
+
+### Bug Fixes
+
+* stick to newly updated naming standards ([ec57cbb](https://github.com/opinionated-digital-center/architecture-decision-record/commit/ec57cbbe2fde4c4e5921c7313d04f6b8cbc31e2b))
+
 ## [0.3.0](https://github.com/opinionated-digital-center/architecture-decision-record/compare/v0.2.0...v0.3.0) (2020-05-06)
 
 
