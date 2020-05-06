@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [0.2.0](https://github.com/opinionated-digital-center/architecture-decision-record/compare/v0.1.0...v0.2.0) (2020-05-06)
+
+
+### Features
+
+* **adr:** use github as main hub ([d6bb198](https://github.com/opinionated-digital-center/architecture-decision-record/commit/d6bb198bc6589aa02355f3fc78228df160081e41))
+
 ## [0.1.0](https://github.com/opinionated-digital-center/architecture-decision-record/compare/v0.0.0...v0.1.0) (2020-05-05)
 
 
