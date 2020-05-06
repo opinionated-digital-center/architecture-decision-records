@@ -1,6 +1,6 @@
 # Use semantic versioning
 
-* Status: approved
+* Status: accepted
 * Date: 2020-03-31
 
 ## Context and Problem Statement

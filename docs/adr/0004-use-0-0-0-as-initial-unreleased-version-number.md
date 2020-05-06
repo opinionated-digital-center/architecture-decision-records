@@ -1,6 +1,6 @@
 # Use 0.0.0 as initial unreleased version number
 
-* Status: approved
+* Status: accepted
 * Date: 2020-03-31
 
 ## Context and Problem Statement

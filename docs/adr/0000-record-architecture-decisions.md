@@ -1,6 +1,6 @@
 # Record architecture decisions
 
-* Status: Accepted
+* Status: accepted
 * Date: 2020-03-25
 
 ## Context

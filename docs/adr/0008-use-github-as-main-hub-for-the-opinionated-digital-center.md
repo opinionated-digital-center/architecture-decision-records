@@ -1,7 +1,7 @@
 # Use GitHub as main hub for the Opinionated Digital Center
 
-* Status: proposed
-* Date: 2020-04-02
+* Status: accepted
+* Date: 2020-05-06
 
 ## Context and Problem Statement
 
