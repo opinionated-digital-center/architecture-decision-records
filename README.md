@@ -1,5 +1,8 @@
 # Opinionated Digital Center's Architecture Decision Record Repository
 
+![version](https://img.shields.io/github/v/release/opinionated-digital-center/architecture-decision-record?sort=semver)
+![license](https://img.shields.io/github/license/opinionated-digital-center/architecture-decision-record?sort=semver)
+
 The Opinionated Digital Center's team has decided to use the Architecture Decision
 Record approach to record the reasoning behind its opinionated choices
 (see [ADR-0000](docs/adr/0000-record-architecture-decisions.md)).
