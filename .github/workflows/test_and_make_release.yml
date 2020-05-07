@@ -4,10 +4,27 @@ on:
   push:
     branches:
       - master
+  pull_request:
 
 jobs:
-  semantic_release:
+  pre_merge_checks:
     runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v1
+        with:
+          python-version: 3.8
+      - name: Complete CI/CD setup
+        run: make setup-cicd-check-stage
+      - name: Pre-merge checks
+        run: make pre-merge-checks
+
+  semantic_release:
+    needs:
+      - pre_merge_checks
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
     steps:
       - uses: actions/checkout@v2
       - name: Use Node.js 12.x
