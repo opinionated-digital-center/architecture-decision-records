@@ -34,9 +34,21 @@ __check_defined = \
 # setting up ci-cd env
 #################################################################
 
-setup-cicd-release-stage:
+setup-cicd-common:
 	pip install --upgrade pip
 	pip install pyadr
+
+setup-cicd-check-stage: setup-cicd-common
+
+setup-cicd-release-stage: setup-cicd-common
+
+
+#################################################################
+# pre-merge checks
+#################################################################
+
+pre-merge-checks:
+	git adr pre-merge-checks
 
 
 #################################################################
