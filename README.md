@@ -4,15 +4,18 @@
 ![license](https://img.shields.io/github/license/opinionated-digital-center/architecture-decision-record?sort=semver)
 
 The Opinionated Digital Center's team has decided to use the Architecture Decision
-Record approach to record the reasoning behind its opinionated choices
+Record approach to record the reasoning behind the opinionated choices it makes
 (see [ADR-0000](docs/adr/0000-record-architecture-decisions.md)).
 
+Cross-cutting decisions are held in this repository (see
+[table of content](docs/adr/index.md)), whereas project specific ADRs are held in
+each project's `docs/adr` directory.
+
 ## What is an Architecture Decision Record (ADR)?
-To learn about ADR, see:
+To learn about ADRs, see:
 
 * [Joel Parker Henderson's page](https://github.com/joelparkerhenderson/architecture_decision_record).
 * The [original article from Michael Nygard](http://thinkrelevance.com/blog/2011/11/15/documenting-architecture-decisions).
-
 
 ## Proposing a new ADR
 
