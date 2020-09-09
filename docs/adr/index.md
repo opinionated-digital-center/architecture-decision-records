@@ -3,15 +3,15 @@
 
 ## Accepted Records
 
-* [Record architecture decisions](0000-record-architecture-decisions.md)
-* [Use Markdown Architectural Decision Records](0001-use-markdown-architectural-decision-records.md)
-* [Use CC0-1.0 as license](0002-use-cc0-1-0-as-license.md)
-* [Use semantic versioning](0003-use-semantic-versioning.md)
-* [Use 0.0.0 as initial unreleased version number](0004-use-0-0-0-as-initial-unreleased-version-number.md)
-* [Use Conventional Commits](0005-use-conventional-commits.md)
-* [Always fill status and date in ADR](0006-always-fill-status-and-date-in-adr.md)
-* [Use Conventional Changelog format for Conventional Commits](0007-use-conventional-changelog-format-for-conventional-commits.md)
-* [Use GitHub as main hub for the Opinionated Digital Center](0008-use-github-as-main-hub-for-the-opinionated-digital-center.md)
+* [0000 - Record architecture decisions](0000-record-architecture-decisions.md)
+* [0001 - Use Markdown Architectural Decision Records](0001-use-markdown-architectural-decision-records.md)
+* [0002 - Use CC0-1.0 as license](0002-use-cc0-1-0-as-license.md)
+* [0003 - Use semantic versioning](0003-use-semantic-versioning.md)
+* [0004 - Use 0.0.0 as initial unreleased version number](0004-use-0-0-0-as-initial-unreleased-version-number.md)
+* [0005 - Use Conventional Commits](0005-use-conventional-commits.md)
+* [0006 - Always fill status and date in ADR](0006-always-fill-status-and-date-in-adr.md)
+* [0007 - Use Conventional Changelog format for Conventional Commits](0007-use-conventional-changelog-format-for-conventional-commits.md)
+* [0008 - Use GitHub as main hub for the Opinionated Digital Center](0008-use-github-as-main-hub-for-the-opinionated-digital-center.md)
 
 ## Rejected Records
 
